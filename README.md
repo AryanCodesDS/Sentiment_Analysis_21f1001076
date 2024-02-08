@@ -3,7 +3,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Results](#Result/Findings)
+- [Results](#resultfindings)
 
 
 ## Project Overview
